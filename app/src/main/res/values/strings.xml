@@ -3,4 +3,6 @@
     <string name="full_name">Carlos Guzman</string>
     <string name="job_title">Software Engineer</string>
     <string name="my_phone_number">786-382-1017</string>
+    <string name="email">carlosguzmantejeda13@gmail.com</string>
+    <string name="github">github.com/CarlosGuzman01</string>
 </resources>

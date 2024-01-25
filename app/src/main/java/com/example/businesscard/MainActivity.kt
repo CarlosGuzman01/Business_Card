@@ -87,13 +87,13 @@ fun BusinessCard(modifier: Modifier = Modifier) {
         )
         
         IconsComposable(
-            value = "github.com/CarlosGuzman01",
+            value = stringResource(R.string.github),
             iconVector = Icons.Default.Share,
             modifier = modifier
         )
         
         IconsComposable(
-            value = "carlosguzmantejeda13@gmail.com",
+            value = stringResource(R.string.email),
             iconVector = Icons.Default.Email,
             modifier = modifier
         )
